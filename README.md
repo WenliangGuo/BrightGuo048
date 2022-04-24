@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wenliang Guo
-- :school: I received my bachelor degree in Xidian University, China, and pursing M.S. degree in Columbia University, NYC, US.
+- :school: I received my B.S. degree in Xidian University, China, and pursing M.S. degree in Columbia University, NYC, US.
 - 👀 I’m interested in deep learning, computer vision (CV) and natural language processing (NLP).
 - 🌱 I’m currently learning multi-modal Transformer, representation learning, contrastive learning and masked auto-encoding. 
 - 📫 email: wg2397@columbia.edu
