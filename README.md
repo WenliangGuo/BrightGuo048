@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wenliang Guo
 - :school: I am pursing M.S. degree in Columbia University, and received my B.E. degree from Xidian University, China.
 - 👀 I’m interested in deep learning, computer vision (CV) and natural language processing (NLP).
-- 🌱 I’m currently researching on multi-modal and representation learning. 
+- :mag: I’m currently researching on multi-modal and representation learning. 
 - 📫 email: wg2397@columbia.edu
 
 <!---
